@@ -4,9 +4,9 @@
    Seja bem vindo(a)! Eu sou a Gabrielly Oliveira :)
   </h1>
   <p align = "center"> 
-    - 🎓 Cursando Ciência da Computação
-    - 🔭 Atualmente atuo como Jovem Aprendiz em Programação Back-End
-    - 🌱 Estudando Typescript, MongoDB, NestJS, C++ e outros
+    - 🎓 Cursando Ciência da Computação <br>
+    - 🔭 Atualmente atuo como Jovem Aprendiz em Programação Back-End <br>
+    - 🌱 Estudando Typescript, MongoDB, NestJS, C++ e outros <br> 
     <a href = "https://github.com/GabriellyOlinsc">
     </a></p>
   
