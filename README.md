@@ -11,7 +11,7 @@
     </a></p>
   
   <img  height="190em" src="https://github-readme-stats.vercel.app/api?username=GabriellyOlinsc&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img   height="190em" width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellyOlinsc&theme=github_dark&hide_border=false&&layout=compact"/>
+  <img   height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellyOlinsc&theme=github_dark&hide_border=false&&layout=compact"/>
 </div>
 
 <div valign = "top"><br>
