@@ -6,14 +6,14 @@
   <p align = "center"> 
     - 🎓 Cursando Ciência da Computação <br>
     - 🔭 Atualmente atuo como Jovem Aprendiz em Programação Back-End <br>
-    - 🌱 Estudando Typescript, MongoDB, NestJS, C++ e outros <br> 
+    - 🌱 Estudando React, Typescript, MongoDB, NestJS, C++ e outros <br> 
     <a href = "https://github.com/GabriellyOlinsc">
     </a></p>
   
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellyOlinsc&theme=github_dark&hide_border=false&&layout=compact"/>
 </div>
 
-<div valign = "top"><br>
+<div align = "top"><br>
   <img align="center" alt="Gaby-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gaby-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gaby-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
