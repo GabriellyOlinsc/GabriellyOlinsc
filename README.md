@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabriellyOlinsc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=github-dark&locale=en&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabriellyOlinsc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=colorful-dark&locale=en&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabriellyOlinsc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
