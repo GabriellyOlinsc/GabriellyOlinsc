@@ -10,7 +10,7 @@
     <a href = "https://github.com/GabriellyOlinsc">
     </a></p>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellyOlinsc&theme=github_dark&hide_border=false&&layout=compact"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellyOlinsc&theme=github_dark&hide_border=false&&layout=compact"/>
 </div>
 
 <div valign = "top"><br>
