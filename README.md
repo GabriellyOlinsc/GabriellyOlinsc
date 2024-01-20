@@ -9,13 +9,15 @@
     - 🌱 Estudando React, Typescript, MongoDB, NestJS, C++ e outros <br> 
     <a href = "https://github.com/GabriellyOlinsc">
     </a></p>
-  
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellyOlinsc&theme=github_dark&hide_border=false&&layout=compact"/>
 </div>
 
-<div align = "top"><br>
-  <img align="center" alt="Gaby-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gaby-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gaby-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Gaby-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />          
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellyOlinsc&theme=github_dark&hide_border=false&&layout=compact"/>
+</div>
+
+<div align = "center"><br>
+  <img  alt="Gaby-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img  alt="Gaby-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img  alt="Gaby-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img  alt="Gaby-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />          
 </div>
