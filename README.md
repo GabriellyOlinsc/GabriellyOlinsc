@@ -5,8 +5,9 @@
   </h1>
   <p align = "center"> 
     - 🎓 Cursando Ciência da Computação <br>
-    - 🔭 Atualmente atuo como Jovem Aprendiz em Programação Back-End <br>
+    - 🔭 Atualmente atuo como Estagiária de TI com foco em desenvolvimento de produto <br>
     - 🌱 Estudando React, Typescript, MongoDB, NestJS, C++ e outros <br> 
+    - 🔭 Tenho interesse em Programação Back-End.
     <a href = "https://github.com/GabriellyOlinsc">
     </a></p>
 </div>
