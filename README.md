@@ -4,7 +4,7 @@
    Welcome! I am Gabrielly Oliveira :)
   </h1>
   <p align = "center"> 
-    - 🎓 Cursando Ciência da Computação <br>
+    - 🎓 4th semester of Computer Science <br>
     - 🔭 Currently working as a IT Intern focusing on product development. <br>
     - 🌱 Studying React, Typescript, MongoDB, NestJS, C++, and other technologies. <br> 
     - 🔭 Interested in Back-End Development.
