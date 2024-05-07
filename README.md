@@ -1,13 +1,13 @@
 
 <div>
   <h1 align="center">
-   Seja bem vindo(a)! Eu sou a Gabrielly Oliveira :)
+   Welcome! I am Gabrielly Oliveira :)
   </h1>
   <p align = "center"> 
     - 🎓 Cursando Ciência da Computação <br>
-    - 🔭 Atualmente atuo como Estagiária de TI com foco em desenvolvimento de produto <br>
-    - 🌱 Estudando React, Typescript, MongoDB, NestJS, C++ e outros <br> 
-    - 🔭 Tenho interesse em Programação Back-End.
+    - 🔭 Currently working as a IT Intern focusing on product development. <br>
+    - 🌱 Studying React, Typescript, MongoDB, NestJS, C++, and other technologies. <br> 
+    - 🔭 Interested in Back-End Development.
     <a href = "https://github.com/GabriellyOlinsc">
     </a></p>
 </div>
