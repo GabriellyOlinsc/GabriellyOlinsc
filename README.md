@@ -1,28 +1,32 @@
-# Welcome! I'm Gabrielly Oliveira :)
+<div align="center">
+ <H1> Welcome! I'm Gabrielly Oliveira :) </H1>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)]([https://www.linkedin.com/in/apenasovini/](https://www.linkedin.com/in/gabrielly-olinsc))
+  [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:gabriellyn@edu.univali.br)
+  
+</div>
 
-Hello! I'm a 5th semester Computer Science student with a passion for technology and software development. I'm currently working as an IT Intern, focusing on product development. Here are some of the things I'm currently working on:
+I’m a Computer Science student passionate about technology and software development. Currently, I work as an IT Intern, contributing to innovative product development projects.
 
-- 🌱 **Deepening my knowledge in Back-End Development**: Currently focused on mastering **NestJS**, **MongoDB**, and **TypeScript** to build efficient and scalable back-end systems.
-- 🔭 **Exploring Front-End Development**: Starting to learn and create projects with **React** to build dynamic and interactive user interfaces.
-- 🎯 **Goal**: My ambition is to become a product developer with strong critical analysis skills, capable of designing and building robust and impactful products.
+### About me:
+
+-  Currently deepening my knowledge in back-end development, with a focus on mastering NestJS
+-  Actively exploring Go (Golang) to enhance my skills in developing sofwares 
+-  Recently developed a keen interest in front-end development.
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabriellyOlinsc&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="150" alt="Gabrielly's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabriellyOlinsc&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" alt="Most used languages"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="NestJS" alt="NestJS" width="60" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" height="30" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" height="30" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height="30" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="30" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="30" width="40"/>
-</div>
-
----
-
-## :mailbox_with_mail: Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/gabrielly-oliveira)
-
