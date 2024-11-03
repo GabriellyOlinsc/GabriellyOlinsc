@@ -25,5 +25,4 @@ Hello! I'm a 5th semester Computer Science student with a passion for technology
 
 ## :mailbox_with_mail: Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/gabrielly-oliveira)
-- [GitHub](https://github.com/GabriellyOlinsc)
 
