@@ -1,7 +1,7 @@
 <div align="center">
  <H1> Welcome! I'm Gabrielly Oliveira :) </H1>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)]([https://www.linkedin.com/in/apenasovini/](https://www.linkedin.com/in/gabrielly-olinsc))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/gabrielly-olinsc)
   [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:gabriellyn@edu.univali.br)
   
 </div>
