@@ -6,7 +6,7 @@
   
 </div>
 
-I’m a Computer Science student passionate about technology and software development. Currently, I work as an IT Intern, contributing to innovative product development projects.
+I’m a Computer Science student interested about technology and software development. Currently, I work as an IT Intern, contributing to innovative product development projects.
 
 ### About me:
 
