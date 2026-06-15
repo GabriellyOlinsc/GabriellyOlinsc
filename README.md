@@ -10,9 +10,9 @@ I’m a Computer Science student interested about technology and software develo
 
 ### About me:
 
--  Currently deepening my knowledge in back-end development, with a focus on mastering NestJS
+-  Working with both frontend and backend development in my day-to-day
 -  Actively exploring Go (Golang) to enhance my skills in developing sofwares 
--  Recently developed a keen interest in front-end development.
+-  Recently developed a keen interest in IoT development.
 
 ---
 
